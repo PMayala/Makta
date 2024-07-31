@@ -4,11 +4,11 @@ import { Bell } from 'lucide-react';
 import { useNavigate } from 'react-router-dom';
 import { MainContext } from '../context/AppContext';
 
-/* const initialBooksData = [
+const initialBooksData = [
   { title: 'Advanced Physics 55', barcode: '123456789345', author: 'Plamedi', category: 'Science', language: 'English', copies: 12, status: 'On-shelf' },
   { title: 'The Light', barcode: '123423453456', author: 'Ethane', category: 'Novel', language: 'French', copies: 3, status: 'Issued' },
   // Add more entries as needed
-]; */
+];
 
 export default function Books() {
   const [books, setBooks] = useState(() => {

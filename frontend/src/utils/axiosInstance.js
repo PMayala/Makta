@@ -2,7 +2,7 @@ import axios from "axios";
 
 // const BASE_URL =
 //   "https://virtserver.swaggerhub.com/MAYALAPLAMEDI38/MaktabaLib/1/api";
-const BASE_URL = "http://localhost:5000/api"
+const BASE_URL = "https://makta.onrender.com/api"
 
 const defaultOptions = {
   baseURL: BASE_URL,
