@@ -161,7 +161,7 @@ export default function Landing() {
                 />
               </div>
               <div className="w-full md:w-1/2">
-                <p className="text-lg md:text-xl leading-relaxed text-justify mb-8 text-gray-600">
+                <p className="text-lg md:text-xl leading-relaxed text-center mb-8 text-gray-600">
                   Maktaba is more than just a library management system. We're a dedicated team of innovators committed to transforming how Rwandan high schools handle their library resources. Our platform combines cutting-edge technology with user-friendly design to create an unparalleled library experience for students and staff alike.
                 </p>
               </div>
